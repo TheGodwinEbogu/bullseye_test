@@ -10,7 +10,12 @@
 }
 .toggle-on {
   color: hsl(236, 72%, 79%);
-  font-size: 3rem;
+  font-size: 3.5rem;
+}
+.toggle-off {
+  color: hsl(232, 13%, 33%);
+  font-size: 3.5rem;
+  display: none;
 }
 .para {
   font-size: 1.2rem;
