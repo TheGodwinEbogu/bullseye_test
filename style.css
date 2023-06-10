@@ -1,3 +1,16 @@
+.headings {
+  text-align: center;
+  font-size: 2rem;
+}
+.heading_flex {
+  display: flex;
+  justify-content: center;
+}
+.toggle-on {
+  color: hsl(236, 72%, 79%);
+  font-size: 3rem;
+}
+
 /*********************************/
 /* PRICING SECTION*/
 /*********************************/
